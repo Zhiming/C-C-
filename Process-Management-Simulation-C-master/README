@@ -1,0 +1,1 @@
+This program simulates how processes are managed in a single CPU system. Those buses are treated as processes in memory. As a result, only one bus could run at one time as processes do in system.

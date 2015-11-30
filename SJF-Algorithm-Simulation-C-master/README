@@ -1,0 +1,1 @@
+This program simulates SJF algorithm, one of process-managed method. It measures the time a bus reaches a stop as each process of several processes is processed in CPU.
